@@ -1,3 +1,4 @@
+# Piedit
 Piedit is a Graphical IDE and integrated interpreter for the [Piet programming language](http://www.dangermouse.net/esoteric/piet.html).
 
 Piet is an esoteric programming language inspired by [Piet Mondrian](http://en.wikipedia.org/wiki/Piet_Mondrian), where the programs look like abstract art. The colours and arrangement of the pixels control the program flow and operation. For a more detailed explanation, see the [Piet Homepage](http://www.dangermouse.net/esoteric/piet.html).
@@ -16,3 +17,15 @@ Requirements
 - Python (with PIL)
 - GTK+ 2.0
 - PyGTK bindings
+
+#Installation
+You need:
+- Python (with PIL (Python Imaging Library))
+- GTK= 2.0
+- PyGTK bindings
+- Glade library
+
+To install PIL
+`pip install pil`
+To install Glade
+`pip install glade`
